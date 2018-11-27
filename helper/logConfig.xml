@@ -1,0 +1,5 @@
+<seelog>
+    <outputs>
+        <rollingfile type="size" filename="logs/roll.log" maxsize="1000" maxrolls="5" />
+    </outputs>
+</seelog>
